@@ -1,0 +1,16 @@
+Mis ingresos - PWA para iPhone
+
+1. Sube esta carpeta a un hosting con HTTPS (GitHub Pages, Netlify, Vercel...).
+2. Abre el enlace en Safari -> Compartir -> Anadir a pantalla de inicio.
+
+Iconos: el verde es el predeterminado. Para el morado abre el enlace con ?icono=morado al final.
+iOS fija el icono al instalar: para cambiarlo hay que reinstalar (antes Exportar copia, despues Importar copia).
+
+Novedades:
+- Menu inferior oculto al crear/editar (pedido, producto, factura); se ajusta al ancho de la pantalla.
+- Boton de la derecha con tu SVG de la cara.
+- Pagos mas limpio: IBAN enmascarado (solo ultimos 3 digitos), ojo para verlo al escribir.
+- Hojas (modales) a pantalla alta, no cortas.
+- Payments: plataformas de ingresos (YouTube, Twitch...) con totales y "Registrar ingreso".
+- Tienda online (solo estructura) y menu "Canales de ventas".
+- Todo es local: la app no mueve dinero ni consulta bancos.
